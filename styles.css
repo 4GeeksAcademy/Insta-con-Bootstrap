@@ -1,0 +1,35 @@
+.img-fit > img {
+   max-height: 400px;
+   min-height: 400px;
+   max-width: 500px;
+   min-width: 500px;
+   margin: 8px;
+}
+
+.img-fit {
+   justify-content: center;}
+
+#myTab {
+   justify-content: center;
+   border-width: 0px;
+  
+}
+
+.nav-tabs .nav-link {
+   --bs-nav-tabs-border-width: 0;
+ 
+}
+
+.tab-pane fadep {
+   justify-content: center;
+}
+
+.body-padding {
+   padding: 15px 15px 20px 10px; 
+
+}
+
+.img-size > img {
+   object-fit: cover
+
+}
